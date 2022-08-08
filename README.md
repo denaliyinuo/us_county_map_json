@@ -2,7 +2,7 @@
 
 ![image](county_map_example.JPG)
 
-This project's aim is to provide Power BI users with a US county map json file, along with every US counties' corresponding id number, which can be used to properly map US county data in Power BI.
+The aim of this project is to provide Power BI users with a US county map json file, along with every US counties' corresponding id number, which can be used to properly map US county data in Power BI.
 
 # Summary of Repo Files
 
